@@ -61,3 +61,7 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4126
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/18771
 #EXTINF:0 tvg-id="ext" group-title="PARAGUAY",PAR - TELEFUTURO
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7529
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ESPAÑA",ES: NAT GEO WILD HD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38085
+#EXTINF:0 tvg-id="NatGeoMundo.us" group-title="• MUNDO Y CULTURA",MyC - NATGEO MUNDO
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3774
