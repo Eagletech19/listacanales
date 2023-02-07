@@ -5,6 +5,8 @@ http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/7044
 http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/49153
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="Canada",LOVE Nature
 http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/1326
+#EXTINF:0 tvg-id="LoveNature.ca" group-title="Outdoor",Pluto TV Love Nature (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="ext" group-title="LATINO",LA: TYC SPORTS
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127833
 #EXTINF:0 tvg-id="ESPN.mx" group-title="MEXICO",MX: ESPN
@@ -69,6 +71,16 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3774
 http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/1107
 #EXTINF:0 tvg-id="ext" group-title="LATINOS [USA]",LAT - CNN EN ESPAÑOL
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4014
+#EXTINF:0 tvg-id="ext" group-title="News",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Cablenoticias (Bogotà | Cundinamarca) (1080p)
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="News",Fox News Channel (720p)
+http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="LATINO",LA: FRECUENCIA LATINA - PER
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127682
 #EXTINF:0 tvg-id="ext" group-title="PARAGUAY",PAR - TELEFUTURO
