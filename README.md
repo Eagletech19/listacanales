@@ -65,8 +65,6 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38084
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4126
 #EXTINF:0 tvg-id="NatGeoMundo.us" group-title="• MUNDO Y CULTURA",MyC - NATGEO MUNDO
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3774
-#EXTINF:0 tvg-id="ext" group-title="US - WORLD AND CULTURE",US.WC - ANIMAL PLANET
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/18771
 #EXTINF:0 tvg-id="ext" group-title="Spanish",Latino- NTN 24
 http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/1107
 #EXTINF:0 tvg-id="ext" group-title="LATINOS [USA]",LAT - CNN EN ESPAÑOL
