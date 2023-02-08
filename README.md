@@ -7,6 +7,14 @@ http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/49153
 http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/1326
 #EXTINF:0 tvg-id="LoveNature.ca" group-title="Outdoor",Pluto TV Love Nature (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Outdoor",Pluto TV Naturaleza (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Outdoor",Pluto TV Nature (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1c3f9851dd5632e2c91b2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1e26d24e-0585-11eb-82fe-0242ac110002&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Pluto TV Animals (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Pluto TV Animals+ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="LATINO",LA: TYC SPORTS
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127833
 #EXTINF:0 tvg-id="ESPN.mx" group-title="MEXICO",MX: ESPN
@@ -43,14 +51,16 @@ http://satline.xyz:8080/live/691664643645906012/6641664643645906/52186.ts
 http://satline.xyz:8080/live/691664643645906012/6641664643645906/50487.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA_HD_MEX2:Animal Planet HD
 http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/2164
-#EXTINF:0 tvg-id="ext" group-title="USA | TELEMUNDO",LA: DISCOVERY CHANNEL
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/18398.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ESPAÑA",ES: DISCOVERY CHANNEL HD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38039
+#EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| DISCOVERY CHANNEL (CO)(P)
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10278
+#EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| DISCOVERY CHANNEL FHD
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10281
 #EXTINF:0 tvg-id="ext" group-title="USA | TELEMUNDO",LA: DISCOVERY SCIENCE
 http://satline.xyz:8080/live/691664643645906012/6641664643645906/18523.ts
 #EXTINF:0 tvg-id="ext" group-title="USA | TELEMUNDO",LA: DISCOVERY INVESTIGATION
 http://satline.xyz:8080/live/691664643645906012/6641664643645906/18526.ts
-#EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| DISCOVERY CHANNEL (CO)(P)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10278
 #EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| Investigation Discovery SD
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10318
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA..HQ:History Channel
@@ -73,8 +83,6 @@ http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/1107
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4014
 #EXTINF:0 tvg-id="ext" group-title="News",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Cablenoticias (Bogotà | Cundinamarca) (1080p)
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Euronews Spanish
