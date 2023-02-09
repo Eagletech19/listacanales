@@ -55,14 +55,12 @@ http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/2164
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38039
 #EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| DISCOVERY CHANNEL (CO)(P)
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10278
-#EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| DISCOVERY CHANNEL FHD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10281
-#EXTINF:0 tvg-id="ext" group-title="USA | TELEMUNDO",LA: DISCOVERY SCIENCE
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/18523.ts
-#EXTINF:0 tvg-id="ext" group-title="USA | TELEMUNDO",LA: DISCOVERY INVESTIGATION
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/18526.ts
+#EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL:Discovery Science
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/63942
 #EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| Investigation Discovery SD
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10318
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA",ES: CRIME AND INVESTIGATION
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38038
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA..HQ:History Channel
 http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/19480
 #EXTINF:0 tvg-id="ext" group-title="USA | TELEMUNDO",LA: NAT GEO WILD
@@ -87,8 +85,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Euronews Spanish
 https://euronews.alteox.app/hls/es_stream.m3u8
-#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="News",Fox News Channel (720p)
-http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="USA",Fox News Channel
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40530
 #EXTINF:0 tvg-id="ext" group-title="LATINO",LA: FRECUENCIA LATINA - PER
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127682
 #EXTINF:0 tvg-id="ext" group-title="PARAGUAY",PAR - TELEFUTURO
