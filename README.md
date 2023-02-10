@@ -63,8 +63,6 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10318
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38038
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA..HQ:History Channel
 http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/19480
-#EXTINF:0 tvg-id="ext" group-title="USA | TELEMUNDO",LA: NAT GEO WILD
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/18527.ts
 #EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| NAT GEO WILD (ec)
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10321
 #EXTINF:0 tvg-id="NatGeoWild.es" group-title="ESPAÑA",ES: NAT GEO WILD HD
