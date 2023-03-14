@@ -36,15 +36,15 @@ http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/68499
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN Extra HD - SUR
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37861
 #EXTINF:0 tvg-id="ext" group-title="USA | TELEMUNDO",ARG: FOX SPORTS 1
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/9982.ts
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/156557
 #EXTINF:0 tvg-id="FoxSports2.ar" group-title="USA | TELEMUNDO",ARG: FOX SPORTS 2
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/9983.ts
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/156587
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA..HQ:Fox Sports 3 Sur
-http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/19486
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/160675
 #EXTINF:0 tvg-id="Eurosport1.es" group-title="Channels",ES: EUROSPORT 1
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/5607.ts
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/122827
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: VIP EUROSPORT 2
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/29928.ts
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/131158
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: SUPERTENNIS
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/170776
 #EXTINF:0 tvg-id="ext" group-title="USA",USA: VIP TENNIS CHANNEL
