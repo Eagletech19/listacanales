@@ -24,7 +24,7 @@ http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/19484
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",Argentina - ESPN 2 HD
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37217
 #EXTINF:0 tvg-id="ESPN3SD.ar" group-title="USA | TELEMUNDO",ARG: ESPN 3
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/10010.ts
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/196194
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN FHD - MX
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37863
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN HD - SUR
@@ -45,16 +45,20 @@ http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/19486
 http://satline.xyz:8080/live/691664643645906012/6641664643645906/5607.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: VIP EUROSPORT 2
 http://satline.xyz:8080/live/691664643645906012/6641664643645906/29928.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AF: VIP SUPERSPORT TENNIS
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/52186.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SUPERTENNIS
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/170776
 #EXTINF:0 tvg-id="ext" group-title="USA",USA: VIP TENNIS CHANNEL
-http://satline.xyz:8080/live/691664643645906012/6641664643645906/50487.ts
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/156582
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA_HD_MEX2:Animal Planet HD
 http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/2164
 #EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ESPAÑA",ES: DISCOVERY CHANNEL HD
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38039
 #EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| DISCOVERY CHANNEL (CO)(P)
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10278
+#EXTINF:0 tvg-id="ext" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)",Latino 2mb - Discovery Channel
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/87441
+#EXTINF:0 tvg-id="ext" group-title="Documentales/LATIN DOCUMENTARY (HD)",CULT| DISCOVERY CHANNEL HD*+*
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86189
 #EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL:Discovery Science
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/63942
 #EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| Investigation Discovery SD
