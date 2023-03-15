@@ -22,9 +22,15 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127601
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA..HQ:ESPN 2 Sur
 http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/19484
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",Argentina - ESPN 2 HD
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37217
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/128622
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES LATINOS (FHD)",ESPN 2 MX
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/128615
 #EXTINF:0 tvg-id="ESPN3SD.ar" group-title="USA | TELEMUNDO",ARG: ESPN 3
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/196194
+#EXTINF:0 tvg-id="ext" group-title="DIRECTV ", | ESPN 3 HD
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/192669
+#EXTINF:0 tvg-id="ext" group-title="COLOMBIA",COL| ESPN 3 FHD
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86357
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN FHD - MX
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37863
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN HD - SUR
