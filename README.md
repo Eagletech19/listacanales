@@ -52,7 +52,9 @@ http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/122827
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: VIP EUROSPORT 2
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/131158
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: SUPERTENNIS
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/170776
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/156582
+#EXTINF:0 tvg-id="ext" group-title="ITALIA",IT- SUPER TENNIS
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/170819
 #EXTINF:0 tvg-id="ext" group-title="USA",USA: VIP TENNIS CHANNEL
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/156582
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA_HD_MEX2:Animal Planet HD
