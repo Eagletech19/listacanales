@@ -20,7 +20,7 @@ https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127833
 #EXTINF:0 tvg-id="ESPN.mx" group-title="MEXICO",MX: ESPN
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127601
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA..HQ:ESPN 2 Sur
-http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/19484
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/86979
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",Argentina - ESPN 2 HD
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/128622
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES LATINOS (FHD)",ESPN 2 MX
@@ -55,14 +55,12 @@ http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/131158
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/156582
 #EXTINF:0 tvg-id="ext" group-title="ITALIA",IT- SUPER TENNIS
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/170819
-#EXTINF:0 tvg-id="ext" group-title="USA",USA: VIP TENNIS CHANNEL
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/156582
+#EXTINF:0 tvg-id="ext" group-title="USA",USA: TENNIS CHANNEL
+http://playhispano.org:8080/eliaseggy787/JRZpSNT6Bv/215796
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA_HD_MEX2:Animal Planet HD
 http://x3iptv.com:8090/iptvpowerjuanmarroquin1216/Bk6HmHjpSM/2164
 #EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ESPAÑA",ES: DISCOVERY CHANNEL HD
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38039
-#EXTINF:0 tvg-id="ext" group-title="CULTURA",CUL| DISCOVERY CHANNEL (CO)(P)
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/10278
 #EXTINF:0 tvg-id="ext" group-title="CANALES LATINO2MB/LATIN CHANNELS 2MB (SD)",Latino 2mb - Discovery Channel
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/87441
 #EXTINF:0 tvg-id="ext" group-title="Documentales/LATIN DOCUMENTARY (HD)",CULT| DISCOVERY CHANNEL HD*+*
@@ -95,9 +93,4 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Euronews Spanish
 https://euronews.alteox.app/hls/es_stream.m3u8
-#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="USA",Fox News Channel
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40530
-#EXTINF:0 tvg-id="ext" group-title="LATINO",LA: FRECUENCIA LATINA - PER
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127682
-#EXTINF:0 tvg-id="ext" group-title="PARAGUAY",PAR - TELEFUTURO
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7529
+
