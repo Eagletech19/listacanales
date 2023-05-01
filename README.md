@@ -15,8 +15,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Pluto TV Animals+ (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="LATINO",LA: TYC SPORTS
-https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127833
 #EXTINF:0 tvg-id="ESPN.mx" group-title="MEXICO",MX: ESPN
 https://got.vampirereapers.xyz:443/LisaBechard9/a99mQBKbTWy8/127601
 #EXTINF:0 tvg-id="ext" group-title="Channels",LA..HQ:ESPN 2 Sur
@@ -51,8 +49,6 @@ http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/160675
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/122827
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: VIP EUROSPORT 2
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/131158
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: SUPERTENNIS
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/156582
 #EXTINF:0 tvg-id="ext" group-title="ITALIA",IT- SUPER TENNIS
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/170819
 #EXTINF:0 tvg-id="ext" group-title="USA",USA: TENNIS CHANNEL
@@ -93,4 +89,3 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Euronews Spanish
 https://euronews.alteox.app/hls/es_stream.m3u8
-
