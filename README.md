@@ -33,8 +33,8 @@ http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86357
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86293
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES (ING Y ESP)",DEP HD: ESPN 4 (ARG)
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/192668
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN Extra HD - SUR
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/37861
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN Extra
+http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/163324
 #EXTINF:0 tvg-id="ext" group-title="USA | TELEMUNDO",ARG: FOX SPORTS 1
 http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/156557
 #EXTINF:0 tvg-id="FoxSports2.ar" group-title="USA | TELEMUNDO",ARG: FOX SPORTS 2
