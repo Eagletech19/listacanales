@@ -23,11 +23,7 @@ http://tv.proyectox.vip:8080/e7QqfMz9GA/gGBTYaAkaZ/166828
 http://tv.proyectox.vip:8080/e7QqfMz9GA/gGBTYaAkaZ/967
 #EXTINF:0 tvg-id="ESPN3SD.ar" group-title="USA | TELEMUNDO",ARG: ESPN 3
 http://tv.proyectox.vip:8080/e7QqfMz9GA/gGBTYaAkaZ/1542
-#EXTINF:0 tvg-id="ext" group-title="DIRECTV ", | ESPN 3 HD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/192669
-#EXTINF:0 tvg-id="ext" group-title="COLOMBIA",COL| ESPN 3 FHD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86357
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES (ING Y ESP)",DEP HD: ESPN 4 (ARG)
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES",DEP HD: ESPN 4 (ARG)
 http://tv.proyectox.vip:8080/e7QqfMz9GA/gGBTYaAkaZ/1525
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",ESPN Extra
 http://tv.proyectox.vip:8080/e7QqfMz9GA/gGBTYaAkaZ/973
