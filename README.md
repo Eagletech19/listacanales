@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="College Football Bowl Games",USA ESPN SD
-http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/7044
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="College Football Bowl Games",ESPN 2 SD*
-http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/49153
+#EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS+ (HD) »1«" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="→ FÚTBOL COLOMBIA ←",COL• WIN SPORTS+ (HD) »1«
+http://fastream.xyz:8080/953711049tv/jmfcrps3/359
+#EXTINF:-1 tvg-id="" tvg-name="COL• WIN SPORTS (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="→ FÚTBOL COLOMBIA ←",COL• WIN SPORTS (HD) »1«
+http://fastream.xyz:8080/953711049tv/jmfcrps3/362
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="Canada",LOVE Nature
 http://185.191.124.105:25461/Snook13!/ye2hrFus72ma/1326
 #EXTINF:0 tvg-id="LoveNature.ca" group-title="Outdoor",Pluto TV Love Nature (720p)
