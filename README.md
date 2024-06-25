@@ -37,9 +37,11 @@ http://tv.proyectox.vip:8080/e7QqfMz9GA/gGBTYaAkaZ/1068
 http://tv.proyectox.vip:8080/e7QqfMz9GA/gGBTYaAkaZ/1065
 #EXTINF:0 tvg-id="NatGeoWild.es" group-title="ESPAÑA",ES: NAT GEO WILD HD
 http://tv.proyectox.vip:8080/e7QqfMz9GA/gGBTYaAkaZ/336653
-#EXTINF:0 tvg-id="ext" group-title="News",RT en Español (1080p) [Geo-blocked]
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",Euronews Spanish
-https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CO (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CO (HD) »1«
+http://fastream.xyz:8080/953711049tv/jmfcrps3/482
+#EXTINF:-1 tvg-id="" tvg-name="DEP• DIRECTV SPORTS CO (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS CO (HD) »2«
+http://fastream.xyz:8080/953711049tv/jmfcrps3/485
+
+
